@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Raimund Görg raimund@a.de @me
 
 # THANKS
 
