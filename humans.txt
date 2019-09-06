@@ -4,7 +4,6 @@
 # TEAM
 
 	Raimund Görg raimund@a.de @me
-    <name> -- <role> -- <twitter>
 
 # THANKS
 
