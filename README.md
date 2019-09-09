@@ -26,4 +26,4 @@ file system.
 
 Please fork this repository and then issue Pull Requests for review.
 ### Copyright
-By me
+By me. All rights reserved.
